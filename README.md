@@ -1,8 +1,1 @@
-some test commit
-some test commit
-some test commit
-some test commit
-some test commit
-some test commit
-some test commit
-some test commit
+Tets commit for new branch feature/test-branch
